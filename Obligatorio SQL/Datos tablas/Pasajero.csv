@@ -1,0 +1,37 @@
+﻿IdPasajero;NombrePasajero;APaternoPasajero;AMaternoPasajero;TipoDocumentoPasajero;NumeroDocumentoPasajero;FechaNacimientoPasajero;EmailPasajero;PasswordPasajero;IdPais
+1;Lionel;Messi;;AAA;1111;1992-12-12;adrimede@hotmail.com;"adr123                                  ";1
+2;Neymar;Junior;;BBB;2222;1990-12-24;brupic@hotmail.com;"bru123                                  ";3
+3;Paulo;Dybala;;CCC;3333;1960-05-10;juanan@hotmail.com;"jua123                                  ";2
+4;Thiago;Silva;;DDD;4444;1980-07-12;soyturista@gmail.com;"seb123                                  ";2
+5;Gonzalo;Higuain;;EEE;5555;1995-10-28;fedemede@hotmail.com;"fed123                                  ";1
+10;Fernando;Muslera;;AAA;1111;1992-12-12;fernandomuslera@hotmail.com;"xxx                                     ";1
+11;Diego;Godin;;BBB;2222;1990-12-24;diegogodin@hotmail.com;"yyy                                     ";1
+12;Jos? Mar?a;Gimenez;;CCC;3333;1960-05-10;josema@hotmail.com;"zzz                                     ";1
+13;Luis;Suarez;;DDD;4444;1980-07-12;luchosuarez@gmail.com;"ttt                                     ";1
+14;Edinson;Cavani;;EEE;5555;1995-10-28;edicavani@hotmail.com;"www                                     ";1
+15;Arturo;Vidal;;EEE;5555;1995-10-28;artrito@hotmail.com;"www                                     ";7
+16;"Lucia ";Perez;;FFF;6666;1993-01-25;Lucia @gmail;"Perez1234                               ";752
+17;Juan;Fagundez;;GGG;7777;1994-02-26;Juan@gmail;"Fagundez1234                            ";756
+18;"Maria ";Lopez;;HHH;8888;1996-03-05;Maria @gmail;"Lopez1234                               ";250
+19;Ana;Garcia;;JJJ;9999;1997-04-20;Ana@gmail;"Garcia1234                              ";356
+20;Patricia;Medina;;KKK;1010;1998-07-22;Patricia@gmail;"Medina1234                              ";380
+21;Pedro;Martinez;;FFF;6666;2000-08-15;Pedro@gmail;"Martinez1234                            ";752
+22;Laura;Diaz;;GGG;7777;2001-09-12;Laura@gmail;"Diaz1234                                ";756
+23;Jose;Arias;;HHH;8888;2002-11-28;Jose@gmail;"Arias1234                               ";250
+24;Dana;Loiz;;JJJ;9999;2003-07-29;Dana@gmail;"Loiz1234                                ";356
+25;Natalia;Rosa;;KKK;1010;1993-01-25;Natalia@gmail;"Rosa1234                                ";380
+26;Martin;Muniz;;FFF;6666;1994-02-26;Martin@gmail;"Muniz1234                               ";276
+27;Susana;Gimenez;;GGG;7777;1996-03-05;Susana@gmail;"Gimenez1234                             ";554
+28;Daniel;Nara;;HHH;8888;1997-04-20;Daniel@gmail;"Nara1234                                ";578
+29;Luciano;Gonzalez;;JJJ;9999;1998-07-22;Luciano@gmail;"Gonzalez1234                            ";756
+30;Gonzalo;Gutierrez;;KKK;1010;2000-08-15;Gonzalo@gmail;"Gutierrez1234                           ";250
+31;Paul;Benitez;;FFF;6666;2001-09-12;Paul@gmail;"Benitez1234                             ";356
+32;Fernando;Garcia;;GGG;7777;2002-12-28;Fernando@gmail;"Garcia1234                              ";380
+33;Camila;Dumas;;HHH;8888;2003-09-29;Camila@gmail;"Dumas1234                               ";276
+34;Paula;Lima;;JJJ;9999;1993-11-25;Paula@gmail;"Lima1234                                ";554
+35;Jamila;Sosa;;KKK;1010;1994-04-26;Jamila@gmail;"Sosa1234                                ";578
+36;Abel;Souza;;FFF;6666;1996-08-05;Abel@gmail;"Souza1234                               ";380
+37;Lautaro;Esposito;;GGG;7777;1997-04-26;Lautaro@gmail;"Esposito1234                            ";752
+38;Lorenzo;Gomez;;HHH;8888;1998-07-27;Lorenzo@gmail;"Gomez1234                               ";554
+39;David;Ruiz;;JJJ;9999;2000-08-10;David@gmail;"Ruiz1234                                ";554
+40;Marcos;Torres;;KKK;1010;2001-09-01;Marcos@gmail;"Torres1234                              ";578
